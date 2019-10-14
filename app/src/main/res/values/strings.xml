@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Evolet Feedback</string>
+
+    <string name="apiUrl">https://babf81bd.ngrok.io/api</string>
 </resources>
